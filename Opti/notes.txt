@@ -1,0 +1,4 @@
+-images trop grandes
+-ressources css et java inutilisées
+-pas de <title>
+-certaines images n'ont pas d'attribut alt
